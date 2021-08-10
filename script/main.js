@@ -182,7 +182,7 @@ const animationTimeline = () => {
     )
     .from(
       ".idea-7",
-      0.7,
+      2,
       {
         rotationX: 15,
         rotationZ: -10,
@@ -204,7 +204,7 @@ const animationTimeline = () => {
     )
     .staggerFromTo(
       ".baloons img",
-      2.5,
+      2.2,
       {
         opacity: 0.9,
         y: 1400
@@ -216,7 +216,7 @@ const animationTimeline = () => {
       0.2
     )
     .from(
-      ".lydia-dp",
+      ".bee_parents",
       0.5,
       {
         scale: 3.5,
@@ -233,12 +233,6 @@ const animationTimeline = () => {
       rotation: -180,
       opacity: 0
     })
-    // .from(".hat2", 0.5, {
-    //   x: -100,
-    //   y: 450,
-    //   rotation: -180,
-    //   opacity: 0
-    // })
     .staggerFrom(
       ".wish-hbd span",
       0.7,
