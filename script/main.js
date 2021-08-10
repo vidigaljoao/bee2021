@@ -191,7 +191,7 @@ const animationTimeline = () => {
         z: 10,
         opacity: 0
       },
-      "+=2.5"
+      "+=0.5"
     )
     .to(
       ".idea-7",
