@@ -195,7 +195,7 @@ const animationTimeline = () => {
     )
     .to(
       ".idea-7",
-      0.7,
+      2,
       {
         scale: 0.2,
         opacity: 0
