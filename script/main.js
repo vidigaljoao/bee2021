@@ -182,7 +182,7 @@ const animationTimeline = () => {
     )
     .from(
       ".idea-7",
-      2,
+      0.7,
       {
         rotationX: 15,
         rotationZ: -10,
@@ -191,7 +191,7 @@ const animationTimeline = () => {
         z: 10,
         opacity: 0
       },
-      "+=0.5"
+      "+=2.5"
     )
     .to(
       ".idea-7",
