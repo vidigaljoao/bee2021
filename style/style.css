@@ -120,6 +120,12 @@ body {
   font-size: 10rem;
 }
 
+.idea-7 strong {
+  padding: 3px 5px;
+  border-radius: 3px;
+  display: inline-block;
+}
+
 .six {
   position: relative;
 }
